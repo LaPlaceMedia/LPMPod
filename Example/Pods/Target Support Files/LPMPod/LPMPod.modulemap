@@ -1,0 +1,6 @@
+framework module LPMPod {
+  umbrella header "LPMPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
